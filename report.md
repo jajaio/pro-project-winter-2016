@@ -13,4 +13,4 @@ It saves a lot of time because I woudn't have to go back and tweak so much. Also
 
 AlphaQuest is finished, and I don't plan on doing much more with it. But I will carry it's lessons on with me. I now know much more about multi-file programming, object oriented programming, and just basic programming knowlage. I am carrying this on with my next RPG: King's Army.
 
-Site: [**Alphaquest on jaja.space**](http://jaja.space/alphaquest/)
+Site: [**Alphaquest on jaja.space**](https://jaja.space/alphaquest/)
